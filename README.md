@@ -1,6 +1,6 @@
-# Hacks.js logos and branding artwork
+# Hacks.js brand
 
-This branch holds documentation for the maintainers of this repository. If you're looking for the Hacks.js logos, checkout the `latest/release` branch.
+The `latest/dev` holds documentation for the maintainers of this repository. If you're looking for the Hacks.js logos, checkout the `latest/release` branch.
 
 ## Documentation
 
