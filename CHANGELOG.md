@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.1 - 2022-02-25
+
+- fix: hacksjs--logotype--600x200.svg
+
 ## v0.1.0 - 2022-02-25
 
 - add: hacksjs-logotype--450x150.svg
