@@ -11,7 +11,7 @@ To release updated versions or formats of the Hacks.js logo or related brand art
 3.  Commit your changes.
 
     ```sh
-    $ git commit -a -m "Add more PNG variations"
+    $ git commit -a -m "add: more PNG variations"
     ```
 
 4.  Update the CHANGELOG, bumping the version number as per our [version numbering](version-numbering.md) policy. Use `git log` to see a list of commits since the last release, and use the commit messages as a basis for the contents of the CHANGELOG entry.
